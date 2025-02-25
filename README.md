@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/msbani/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/msbani/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/msbani/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/msbani/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/msbani/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/msbani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/msbani/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/msbani/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/msbani/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/msbani/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/msbani/LeetCode/tree/master/0169-majority-element) |
