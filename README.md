@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/msbani/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/msbani/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/msbani/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/msbani/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/msbani/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/msbani/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/msbani/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/msbani/LeetCode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/msbani/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/msbani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/msbani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/msbani/LeetCode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
