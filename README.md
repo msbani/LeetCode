@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/msbani/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/msbani/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/msbani/LeetCode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/msbani/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/msbani/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/msbani/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/msbani/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/msbani/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/msbani/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/msbani/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/msbani/LeetCode/tree/master/0118-pascals-triangle) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/msbani/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/msbani/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/msbani/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/msbani/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
