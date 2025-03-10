@@ -8,7 +8,7 @@ class Solution {
         int left = 1;
         for (int i = 0; i < nums.length; i++) {
             output[i] *= left;
-            left*= nums[i];
+            left *= nums[i];
         }
 
         int right = 1;
@@ -16,7 +16,6 @@ class Solution {
             output[i] *= right;
             right *= nums[i];
         }
-
         return output;
     }
 }
