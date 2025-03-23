@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/msbani/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/msbani/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/msbani/LeetCode/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/msbani/LeetCode/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/msbani/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/msbani/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/msbani/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/msbani/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/msbani/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/msbani/LeetCode/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/msbani/LeetCode/tree/master/0289-game-of-life) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -303,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/msbani/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/msbani/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/msbani/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/msbani/LeetCode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
