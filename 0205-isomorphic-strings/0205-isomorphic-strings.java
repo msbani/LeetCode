@@ -7,6 +7,7 @@ class Solution {
             if (!charIndexS.containsKey(s.charAt(i))) {
                 charIndexS.put(s.charAt(i), i);
             }
+
             if (!charIndexT.containsKey(t.charAt(i))) {
                 charIndexT.put(t.charAt(i), i);
             }
