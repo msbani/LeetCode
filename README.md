@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/msbani/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/msbani/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/msbani/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/msbani/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/msbani/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/msbani/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/msbani/LeetCode/tree/master/0068-text-justification) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/msbani/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/msbani/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/msbani/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/msbani/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/msbani/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/msbani/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/msbani/LeetCode/tree/master/0066-plus-one) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/msbani/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/msbani/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/msbani/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/msbani/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/msbani/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/msbani/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/msbani/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/msbani/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/msbani/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/msbani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/msbani/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/msbani/LeetCode/tree/master/0217-contains-duplicate) |
