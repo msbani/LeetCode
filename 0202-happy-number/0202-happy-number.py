@@ -8,7 +8,7 @@ class Solution:
             while n:
                 digit = n % 10
                 output += digit ** 2
-                n = n // 10
+                n = n//10
 
             return output
 
