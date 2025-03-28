@@ -4,11 +4,11 @@ class Solution:
         for ss in s:
             if ss.isdigit():
                 num = 10*num + int(ss)
-            elif ss in ["-", "+"]:
+            elif ss in ['-', '+']:
                 res += sign*num
                 num = 0
                 sign = [-1, 1][ss=="+"]
-            elif ss == "(":
+            elif ss =="(":
                 stack.append(res)
                 stack.append(sign)
                 sign, res = 1, 0
