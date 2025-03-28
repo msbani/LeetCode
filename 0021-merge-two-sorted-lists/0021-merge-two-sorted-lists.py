@@ -10,12 +10,12 @@ class Solution:
             else:
                 cur.next = list1
                 list1 = list1.next
-            
+
             cur = cur.next
-        
+
         if list1:
             cur.next = list1
         else:
             cur.next = list2
-        
+
         return dummy.next
