@@ -1,6 +1,8 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        result = 0
-        for num in nums:
-            result ^= num
-        return result
+        temp = 0
+
+        for i in range(len(nums)):
+            temp = temp^nums[i]
+
+        return temp
