@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/msbani/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/msbani/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/msbani/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/msbani/LeetCode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/msbani/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/msbani/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/msbani/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/msbani/LeetCode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/msbani/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/msbani/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/msbani/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/msbani/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/msbani/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/msbani/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
