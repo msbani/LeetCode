@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/msbani/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/msbani/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/msbani/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/msbani/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
 | ------- |
@@ -459,11 +460,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/msbani/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/msbani/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/msbani/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/msbani/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/msbani/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/msbani/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/msbani/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/msbani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting Sort
 |  |
