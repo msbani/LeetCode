@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/msbani/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/msbani/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/msbani/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/msbani/LeetCode/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/msbani/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/msbani/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/msbani/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/msbani/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/msbani/LeetCode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/msbani/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/msbani/LeetCode/tree/master/0289-game-of-life) |
 ## Prefix Sum
 |  |
@@ -557,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/msbani/LeetCode/tree/master/0595-big-countries) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/msbani/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
