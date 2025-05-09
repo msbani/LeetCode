@@ -7,6 +7,6 @@ class Solution:
                 cnt_dic[x] -= 1
                 if cnt_dic[x] < 0:
                     return cnt
-                    
             cnt += 1
         return cnt
+            
