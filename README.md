@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/msbani/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/msbani/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/msbani/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/msbani/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0772-construct-quad-tree](https://github.com/msbani/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0817-design-hashmap](https://github.com/msbani/LeetCode/tree/master/0817-design-hashmap) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/msbani/LeetCode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/msbani/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0535-encode-and-decode-tinyurl](https://github.com/msbani/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/msbani/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0817-design-hashmap](https://github.com/msbani/LeetCode/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/msbani/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/msbani/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/msbani/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/msbani/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/msbani/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/msbani/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Tree
 |  |
 | ------- |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/msbani/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/msbani/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/msbani/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/msbani/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Merge Sort
 |  |
 | ------- |
