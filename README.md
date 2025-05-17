@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [1297-maximum-number-of-balloons](https://github.com/msbani/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/msbani/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/msbani/LeetCode/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/msbani/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/msbani/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/msbani/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/msbani/LeetCode/tree/master/0392-is-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/msbani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/msbani/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Math
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/msbani/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/msbani/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/msbani/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/msbani/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Simulation
 |  |
 | ------- |
