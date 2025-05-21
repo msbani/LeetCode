@@ -8,7 +8,7 @@ class Solution:
             current_area = (right - left) * min(height[left], height[right])
             max_area = max(max_area, current_area)
 
-            if height[left] < height[right]:
+            if (height[left] < height[right]):
                 left += 1
             else:
                 right -= 1
