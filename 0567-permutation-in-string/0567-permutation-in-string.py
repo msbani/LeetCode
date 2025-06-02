@@ -14,8 +14,9 @@ class Solution:
             return True
 
         left = 0
+
         for right in range(len(s1), len(s2)):
-            s2_count[s2[right]] = 1 + s2_count.get(s2[right], 0)
+            s2_count[s2[right]] = 1+ s2_count.get(s2[right], 0)
             s2_count[s2[left]] -= 1
 
             if s2_count[s2[left]] == 0:
