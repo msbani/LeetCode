@@ -2,32 +2,27 @@ from collections import Counter, defaultdict
 
 class Solution:
     def findSubstring(self, s: str, words: List[str]) -> List[int]:
-        length = len(words[0])
-        word_count = Counter(words)
-        indexes = []
+        word_l = len(words[0])
+        word_c = len(words)
+        word_length = word_l*word_c
 
-        for i in range(length):
-            start = i
-            window = defaultdict(int)
-            words_used = 0
+        if len(s) < word_length:
+            return []
 
-            for j in range(i, len(s) - length + 1, length):
-                word = s[j:j + length]
+        from collections import Counter
+        word_counter = Counter(words)
+        start = 0
+        res = []
 
-                if word not in word_count:
-                    start = j + length
-                    window = defaultdict(int)
-                    words_used = 0
-                    continue
+        for i in range(len(s) - word_length + 1):
+            window = s[i:i+word_length]
+            word_length_counter = Counter()
 
-                words_used += 1
-                window[word] += 1
+            for j in range(0, word_length, word_l):
+                word = window[j:j+word_l]
+                word_length_counter[word] += 1
 
-                while window[word] > word_count[word]:
-                    window[s[start:start + length]] -= 1
-                    start += length
-                    words_used -= 1
+            if word_counter == word_length_counter:
+                res.append(i)
 
-                if words_used == len(words):
-                    indexes.append(start)
-        return indexes
+        return res
