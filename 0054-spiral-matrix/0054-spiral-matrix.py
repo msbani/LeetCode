@@ -8,7 +8,7 @@ class Solution:
             res.append(matrix[y][x])
             matrix[y][x] = "."
 
-            if not 0 <= x + dx < cols or not 0 <= y + dy < rows or matrix[y + dy] [x + dx] == ".":
+            if not 0 <= x + dx < cols or not 0 <= y + dy < rows or matrix[y +dy][x + dx] ==".":
                 dx, dy = -dy, dx
 
             x += dx
