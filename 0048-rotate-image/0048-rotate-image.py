@@ -4,7 +4,6 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         edge_length = len(matrix)
-
         top = 0
         bottom = edge_length - 1
 
@@ -22,4 +21,4 @@ class Solution:
                 matrix[row][col] = matrix[col][row]
                 matrix[col][row] = temp
 
-        return matrix 
+        return matrix
