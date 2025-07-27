@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/msbani/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/msbani/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/msbani/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/msbani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/msbani/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/msbani/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/msbani/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/msbani/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/msbani/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/msbani/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/msbani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/msbani/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/msbani/LeetCode/tree/master/0567-permutation-in-string) |
 ## String Matching
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/msbani/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/msbani/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/msbani/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/msbani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/msbani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/msbani/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/msbani/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/msbani/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/msbani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/msbani/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/msbani/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/msbani/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/msbani/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/msbani/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/msbani/LeetCode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/msbani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 ## Counting
 |  |
