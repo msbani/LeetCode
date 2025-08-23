@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/msbani/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/msbani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/msbani/LeetCode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/msbani/LeetCode/tree/master/0401-binary-watch) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/msbani/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Simulation
 |  |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/msbani/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/msbani/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/msbani/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/msbani/LeetCode/tree/master/0401-binary-watch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
