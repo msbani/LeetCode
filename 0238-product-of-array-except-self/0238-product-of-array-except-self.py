@@ -1,3 +1,4 @@
+
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         output = [1] * len(nums)
@@ -13,6 +14,3 @@ class Solution:
             right *= nums[i]
 
         return output
-
-
-         
