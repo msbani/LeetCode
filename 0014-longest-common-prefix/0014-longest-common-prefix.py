@@ -1,5 +1,6 @@
+
 class Solution:
-    def longestCommonPrefix(self, strs:List[str]) -> str:
+    def longestCommonPrefix(self, strs: List[str])->str:
         pref = strs[0]
         pref_len = len(pref)
 
@@ -9,6 +10,4 @@ class Solution:
                 if pref_len == 0:
                     return ""
                 pref = pref[0:pref_len]
-
         return pref
-        
