@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
+
         rows = len(matrix)
         cols = len(matrix[0])
 
@@ -24,7 +25,7 @@ class Solution:
                 if matrix[r][c] == 0:
                     matrix[r][0] = 0
                     matrix[0][c] = 0
-
+                    
         for r in range(1, rows):
             if matrix[r][0] == 0:
                 for c in range(1, cols):
