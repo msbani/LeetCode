@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
+
         edge_length = len(matrix)
         top = 0
         bottom = edge_length - 1
