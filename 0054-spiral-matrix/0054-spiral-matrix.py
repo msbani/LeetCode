@@ -1,6 +1,8 @@
+
 class Solution:
-    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        rows, cols = len(matrix), len(matrix[0])
+    def spiralOrder(self, matrix:List[List[int]])-> List[int]:
+        rows = len(matrix)
+        cols = len(matrix[0])
         x, y, dx, dy = 0, 0, 1, 0
         res = []
 
@@ -8,7 +10,7 @@ class Solution:
             res.append(matrix[y][x])
             matrix[y][x] = "."
 
-            if not 0 <= x + dx < cols or not 0 <= y + dy < rows or matrix[y +dy][x + dx] ==".":
+            if not 0 <= x + dx < cols or not 0 <= y +dy < rows or matrix[y + dy][x + dx] == ".":
                 dx, dy = -dy, dx
 
             x += dx
