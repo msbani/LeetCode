@@ -1,8 +1,9 @@
-class Solution:
-    def minWindow(self, s: str, t: str) -> str:
-        if len(s) < len(t):
-            return ""
 
+class Solution:
+    def minWindow(self, s:str, t:str)-> str:
+        if len(s)<len(t):
+            return ""
+        
         char_count = defaultdict(int)
         for ch in t:
             char_count[ch] += 1
