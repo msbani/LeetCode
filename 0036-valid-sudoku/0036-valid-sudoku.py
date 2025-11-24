@@ -1,5 +1,6 @@
+
 class Solution:
-    def isValidSudoku(self, board: List[List[str]]) -> bool:
+    def isValidSudoku(self, board: List[List[str]])-> bool:
         rows = defaultdict(set)
         cols = defaultdict(set)
         boxes = defaultdict(set)
@@ -17,3 +18,4 @@ class Solution:
                 boxes[(r//3, c//3)].add(board[r][c])
 
         return True
+
