@@ -1,10 +1,11 @@
+
 from collections import Counter, defaultdict
 
 class Solution:
-    def findSubstring(self, s: str, words: List[str]) -> List[int]:
+    def findSubstring(self, s:str, words:List[str])->List[int]:
         word_l = len(words[0])
         word_c = len(words)
-        word_length = word_l*word_c
+        word_length = word_l * word_c
 
         if len(s) < word_length:
             return []
@@ -26,3 +27,5 @@ class Solution:
                 res.append(i)
 
         return res
+
+        
