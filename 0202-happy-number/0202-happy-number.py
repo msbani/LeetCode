@@ -1,5 +1,6 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
+
         visit = set()
 
         def get_next_number(n):
@@ -9,7 +10,6 @@ class Solution:
                 digit = n % 10
                 output += digit ** 2
                 n = n//10
-
             return output
 
         while n not in visit:
