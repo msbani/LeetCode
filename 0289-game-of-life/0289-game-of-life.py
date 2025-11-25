@@ -3,8 +3,8 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
+        
         temp = copy.deepcopy(board)
-
         C = len(board[0])
         R = len(board)
 
@@ -14,7 +14,7 @@ class Solution:
                 neighbors = 0
                 for x,y in moves:
                     if (0<= i+x < R) and (0 <= j+y < C):
-                        if temp[i+x][j+y] == 1:
+                        if temp[i+x][j+y] ==1:
                             neighbors += 1
 
                 if board[i][j] == 1:
@@ -26,3 +26,4 @@ class Solution:
                 elif board[i][j] == 0:
                     if neighbors == 3:
                         board[i][j] = 1
+        
