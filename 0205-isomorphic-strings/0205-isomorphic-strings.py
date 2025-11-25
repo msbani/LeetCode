@@ -1,5 +1,6 @@
+
 class Solution:
-    def isIsomorphic(self, s: str, t: str) -> bool:
+    def isIsomorphic(self, s:str, t:str)->bool:
         char_s = {}
         char_t = {}
 
