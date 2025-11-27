@@ -1,5 +1,6 @@
+
 class Solution(object):
-    def isValid(self, s: str) -> bool:
+    def isValid(self, s:str)-> bool:
         stack = []
         mapping = {")":"(", "}":"{", "]":"["}
 
@@ -11,4 +12,3 @@ class Solution(object):
                     return False
 
         return not stack
-        
