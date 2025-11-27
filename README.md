@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/msbani/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/msbani/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/msbani/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/msbani/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/msbani/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/msbani/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/msbani/LeetCode/tree/master/0097-interleaving-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/msbani/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/msbani/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/msbani/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/msbani/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/msbani/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/msbani/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
