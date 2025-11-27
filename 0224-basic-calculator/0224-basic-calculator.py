@@ -1,3 +1,4 @@
+
 class Solution:
     def calculate(self, s: str) -> int:
         res, num, sign, stack = 0, 0, 1, []
@@ -8,7 +9,7 @@ class Solution:
                 res += sign*num
                 num = 0
                 sign = [-1, 1][ss=="+"]
-            elif ss =="(":
+            elif ss == "(":
                 stack.append(res)
                 stack.append(sign)
                 sign, res = 1, 0
