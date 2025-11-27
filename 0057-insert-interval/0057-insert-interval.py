@@ -1,5 +1,6 @@
+
 class Solution:
-    def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+    def insert(self, intervals:List[List[int]], newInterval:List[int]) -> List[List[int]]:
         intervals.append(newInterval)
         intervals.sort()
 
