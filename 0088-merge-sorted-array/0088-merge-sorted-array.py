@@ -3,17 +3,17 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        x = m-1
-        y = n-1
-        z = m+n-1
+        last = m+n-1
 
-        while y >= 0:
-            if x >=0 and nums1[x] > nums2[y]:
-                nums1[z] = nums1[x]
-                x -= 1
-
+        while m > 0 and n > 0:
+            if nums1[m-1] > nums2[n-1]:
+                nums1[last] = nums1[m-1]
+                m -= 1
             else:
-                nums1[z] = nums2[y]
-                y -= 1
-
-            z -= 1
+                nums1[last] = nums2[n-1]
+                n -= 1
+            last -= 1
+        while n > 0:
+            nums1[last] = nums2[n-1]
+            n -= 1
+            last -= 1
