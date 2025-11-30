@@ -9,3 +9,8 @@ class Solution:
             else:
                 res.append(False)
         return res
+
+# Another simple solution.
+        # max_candies = max(candies)
+
+        # return [c + extraCandies >= max_candies for c in candies]
