@@ -7,5 +7,3 @@ class Solution:
             if citations[i] >= n-i:
                 return n-i
         return 0
-
-
