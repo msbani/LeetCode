@@ -4,12 +4,12 @@ class Solution:
         if sum(gas) < sum(cost):
             return -1
 
-        current_gas = 0
-        start = 0
+        total = 0
+        res = 0
         for i in range(len(gas)):
-            current_gas += gas[i] - cost[i]
-            if current_gas < 0:
-                current_gas = 0
-                start = i + 1
+            total += gas[i] - cost[i]
+            if total < 0:
+                total = 0
+                res = i + 1
 
-        return start
+        return res
