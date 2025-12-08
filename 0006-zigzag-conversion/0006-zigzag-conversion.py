@@ -1,23 +1,13 @@
 
 class Solution:
     def convert(self, s:str, numRows:int)->str:
-        if numRows == 1 or numRows >= len(s):
-            return s
+        if numRows == 1 or numRows >= len(s): return s
 
-        idx = 0
-        d = 1
-        rows = [[] for _ in range(numRows)]
-
-        for char in s:
-            rows[idx].append(char)
-            if idx == 0:
-                d = 1
-            elif idx == numRows - 1:
-                d = -1
-            idx += d
-
-        for i in range(numRows):
-            rows[i] = ''.join(rows[i])
-
-        return ''.join(rows)
-
+        res = ""
+        for r in range(numRows):
+            increament = 2 * (numRows - 1)
+            for i in range(r, len(s), increament):
+                res += s[i]
+                if (r > 0 and r < numRows-1 and i+increament-2*r < len(s)):
+                    res += s[i+increament-2*r]
+        return res
