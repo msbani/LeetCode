@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msbani/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/msbani/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/msbani/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/msbani/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Trie
 |  |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/msbani/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/msbani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/msbani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/msbani/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/msbani/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
