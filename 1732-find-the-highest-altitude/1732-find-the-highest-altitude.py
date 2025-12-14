@@ -6,5 +6,5 @@ class Solution:
         for i in range(len(gain)):
             alt = max_alt + gain[i]
             max_alt = alt
-            gain[i] = alt
+            gain[i] = max_alt
         return max(gain)
