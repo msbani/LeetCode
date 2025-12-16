@@ -7,5 +7,5 @@ class Solution:
         for n in nums2:
             if n not in nums1 and n not in res2:
                 res2.append(n)
-        res = [res1, res2]
-        return res
+        return [res1, res2]
+
