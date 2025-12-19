@@ -1,21 +1,14 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-
-        visit = set()
-
-        def get_next_number(n):
-            output = 0
-
-            while n:
-                digit = n % 10
-                output += digit ** 2
-                n = n//10
-            return output
-
-        while n not in visit:
-            visit.add(n)
-            n = get_next_number(n)
-            if n == 1:
+        seen = set()
+        while n not in seen:
+            seen.add(n)
+            n = str(n)
+            total = 0
+            for i in n:
+                total += int(i) * int(i)
+            if total == 1:
                 return True
-
+            else:
+                n = total
         return False
