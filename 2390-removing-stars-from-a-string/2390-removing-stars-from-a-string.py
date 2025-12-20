@@ -4,7 +4,7 @@ class Solution:
         for i in range(len(s)):
             if s[i] == '*':
                 res.pop()
-            elif s[i] != '*':
+            else:
                 res.append(s[i])
         return ''.join(res)
             
