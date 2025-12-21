@@ -1,13 +1,11 @@
 class Solution:
     def findSubstring(self, s:str, words:List[str])->List[int]:
         word_l = len(words[0])
-        word_c = len(words)
-        word_length = word_l * word_c
+        word_length = word_l * len(words)
 
         while len(s) < word_length:
             return []
 
-        from collections import Counter
         word_counter = Counter(words)
         res = []
 
@@ -22,5 +20,5 @@ class Solution:
             if word_counter == word_length_counter:
                 res.append(i)
         return res
-
+        
         
