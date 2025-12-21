@@ -3,10 +3,9 @@ class Solution:
         word_l = len(words[0])
         word_length = word_l * len(words)
 
-        while len(s) < word_length:
+        if len(s) < word_length:
             return []
 
-        from collections import Counter
         word_counter = Counter(words)
         res = []
 
