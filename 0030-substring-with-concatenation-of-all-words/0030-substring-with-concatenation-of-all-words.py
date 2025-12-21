@@ -6,6 +6,7 @@ class Solution:
         while len(s) < word_length:
             return []
 
+        from collections import Counter
         word_counter = Counter(words)
         res = []
 
