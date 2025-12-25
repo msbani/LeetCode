@@ -5,14 +5,13 @@
 #         self.next = next
 class Solution:
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if head == None :return None
-        prev = ListNode(0)
-        prev.next = head
-        slow = prev
-        fast = head
-        while fast != None and fast.next != None:
-            slow = slow.next
+        if not head.next:
+            return None
+        slow = fast = head
+        prev = None
+        while fast and fast.next:
+            prev = slow
             fast = fast.next.next
-        
-        slow.next = slow.next.next
-        return prev.next
+            slow = slow.next
+        prev.next = prev.next.next
+        return head
