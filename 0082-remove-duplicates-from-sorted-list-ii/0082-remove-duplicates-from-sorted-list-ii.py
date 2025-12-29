@@ -15,4 +15,4 @@ class Solution:
             else:
                 prev.next = head.next
             head = head.next
-        return dummy.next 
+        return dummy.next
