@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/msbani/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/msbani/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/msbani/LeetCode/tree/master/0735-asteroid-collision) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/msbani/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/msbani/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/msbani/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0817-design-hashmap](https://github.com/msbani/LeetCode/tree/master/0817-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/msbani/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/msbani/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/msbani/LeetCode/tree/master/0567-permutation-in-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/msbani/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/msbani/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/msbani/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
