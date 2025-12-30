@@ -5,18 +5,21 @@
 #         self.next = next
 class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        if not head or not k: return head
+        if not head or not k:
+            return head
+        # Get length of linked list
+        length, tail = 1, head
+        while tail.next:
+            tail = tail.next
+            length += 1
+        k = k % length
+        if k == 0:
+            return head
 
-        last, L = head, 1
-        while last.next:
-            last = last.next
-            L += 1
-
-        last.next = head
-        for _ in range(L - k % L):
-            last = last.next
-
-        dummy = last.next
-        last.next = None
-
-        return dummy
+        cur = head
+        for i in range(length - k -1):
+            cur = cur.next
+        newHead = cur.next
+        cur.next = None
+        tail.next = head
+        return newHead
