@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/msbani/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/msbani/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/msbani/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/msbani/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/msbani/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/msbani/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/msbani/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/msbani/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/msbani/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/msbani/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/msbani/LeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/msbani/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/msbani/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/msbani/LeetCode/tree/master/0169-majority-element) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/msbani/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/msbani/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/msbani/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/msbani/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -799,4 +802,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/msbani/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/msbani/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
