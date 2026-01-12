@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/msbani/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/msbani/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/msbani/LeetCode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/msbani/LeetCode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/msbani/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/msbani/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/msbani/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/msbani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/msbani/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/msbani/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/msbani/LeetCode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/msbani/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/msbani/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/msbani/LeetCode/tree/master/0525-contiguous-array) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/msbani/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/msbani/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/msbani/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0399-evaluate-division](https://github.com/msbani/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/msbani/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/msbani/LeetCode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/msbani/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/msbani/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/msbani/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/msbani/LeetCode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/msbani/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/msbani/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0433-minimum-genetic-mutation](https://github.com/msbani/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/msbani/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -754,12 +758,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/msbani/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/msbani/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/msbani/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/msbani/LeetCode/tree/master/0399-evaluate-division) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/msbani/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/msbani/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/msbani/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/msbani/LeetCode/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/msbani/LeetCode/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
@@ -851,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/msbani/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/msbani/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
