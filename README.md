@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/msbani/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/msbani/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/msbani/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/msbani/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/msbani/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/msbani/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/msbani/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/msbani/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/msbani/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/msbani/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/msbani/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/msbani/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/msbani/LeetCode/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/msbani/LeetCode/tree/master/0772-construct-quad-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/msbani/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/msbani/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Union Find
 |  |
