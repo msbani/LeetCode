@@ -8,31 +8,35 @@ class Solution:
         if not head or not head.next:
             return head
 
+        left = head
+        right = self.getMid(head)
+        tmp = right.next
+        right.next = None
+        right = tmp
+
+        left = self.sortList(left)
+        right = self.sortList(right)
+        return self.merge(left, right)
+
+    def getMid(self, head):
         slow, fast = head, head.next
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
+        return slow
 
-        mid = slow.next
-        slow.next = None
-
-        left = self.sortList(head)
-        right = self.sortList(mid)
-
-        return self.merge(left, right)
-
-    def merge(self, l1, l2):
-        dummy = ListNode(0)
-        tail = dummy
-
-        while l1 and l2:
-            if l1.val < l2.val:
-                tail.next = l1
-                l1 = l1.next
+    def merge(self, list1, list2):
+        tail = dummy = ListNode()   
+        while list1 and list2:
+            if list1.val < list2.val:
+                tail.next = list1
+                list1 = list1.next
             else:
-                tail.next = l2
-                l2 = l2.next
+                tail.next = list2
+                list2 = list2.next
             tail = tail.next
-
-        tail.next = l1 or l2
+        if list1:
+            tail.next = list1
+        if list2:
+            tail.next = list2
         return dummy.next
