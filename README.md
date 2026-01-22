@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/msbani/LeetCode/tree/master/0817-design-hashmap) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
+| [0875-koko-eating-bananas](https://github.com/msbani/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/msbani/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/msbani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/msbani/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/msbani/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/msbani/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0875-koko-eating-bananas](https://github.com/msbani/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/msbani/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/msbani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/msbani/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
