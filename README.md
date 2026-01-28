@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/msbani/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/msbani/LeetCode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/msbani/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/msbani/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0918-maximum-sum-circular-subarray](https://github.com/msbani/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/msbani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
