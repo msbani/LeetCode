@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msbani/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/msbani/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/msbani/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/msbani/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/msbani/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/msbani/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/msbani/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/msbani/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/msbani/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/msbani/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/msbani/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/msbani/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
