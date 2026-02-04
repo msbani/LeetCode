@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/msbani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/msbani/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/msbani/LeetCode/tree/master/0401-binary-watch) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/msbani/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/msbani/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Simulation
 |  |
