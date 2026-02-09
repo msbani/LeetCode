@@ -10,4 +10,3 @@ class Solution:
             transaction2 = min(transaction2, i - profit1)
             profit2 = max(profit2, i - transaction2)
         return profit2
-
