@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/msbani/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/msbani/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/msbani/LeetCode/tree/master/0399-evaluate-division) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/msbani/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/msbani/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/msbani/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/msbani/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/msbani/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/msbani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/msbani/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/msbani/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0523-continuous-subarray-sum](https://github.com/msbani/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msbani/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/msbani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/msbani/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/msbani/LeetCode/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/msbani/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/msbani/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/msbani/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Simulation
