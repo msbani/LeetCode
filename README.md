@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/msbani/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/msbani/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/msbani/LeetCode/tree/master/0399-evaluate-division) |
+| [0414-third-maximum-number](https://github.com/msbani/LeetCode/tree/master/0414-third-maximum-number) |
 | [0427-construct-quad-tree](https://github.com/msbani/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/msbani/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/msbani/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/msbani/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/msbani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/msbani/LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/msbani/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/msbani/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/msbani/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/msbani/LeetCode/tree/master/0502-ipo) |
