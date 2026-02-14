@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/msbani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/msbani/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/msbani/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/msbani/LeetCode/tree/master/0441-arranging-coins) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/msbani/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/msbani/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/msbani/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/msbani/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/msbani/LeetCode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/msbani/LeetCode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/msbani/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msbani/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
