@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/msbani/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/msbani/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/msbani/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/msbani/LeetCode/tree/master/0482-license-key-formatting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/msbani/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/msbani/LeetCode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/msbani/LeetCode/tree/master/0649-dota2-senate) |
