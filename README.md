@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/msbani/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/msbani/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/msbani/LeetCode/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/msbani/LeetCode/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/msbani/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/msbani/LeetCode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/msbani/LeetCode/tree/master/0649-dota2-senate) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/msbani/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/msbani/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/msbani/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/msbani/LeetCode/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/msbani/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/msbani/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/msbani/LeetCode/tree/master/0525-contiguous-array) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/msbani/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/msbani/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/msbani/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/msbani/LeetCode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/msbani/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/msbani/LeetCode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/msbani/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
