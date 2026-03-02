@@ -10,7 +10,28 @@ class Node:
 
 class Solution:
     def connect(self, root: 'Node') -> 'Node':
-        if not root:
+        leftmost = root
+        while leftmost:
+            cur = leftmost
+            leftmost = None
+            pre = None
+
+            while cur:
+                if cur.left:
+                    if not leftmost:
+                        leftmost = cur.left
+                    if pre:
+                        pre.next = cur.left
+                    pre = cur.left
+                if cur.right:
+                    if not leftmost:
+                        leftmost = cur.right
+                    if pre:
+                        pre.next = cur.right
+                    pre = cur.right
+                cur = cur.next
+        return root
+        """if not root:
             return None
         queue = deque([root])
         while queue:
@@ -24,4 +45,4 @@ class Solution:
                 if cur.right:
                     queue.append(cur.right)
                 pre = cur
-        return root
+        return root"""
