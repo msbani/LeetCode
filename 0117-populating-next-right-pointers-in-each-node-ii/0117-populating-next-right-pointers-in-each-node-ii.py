@@ -10,16 +10,18 @@ class Node:
 
 class Solution:
     def connect(self, root: 'Node') -> 'Node':
-        node = root
-        while node:
-            curr = dummy = Node(0)
-            while node:
-                if node.left:
-                    curr.next = node.left
-                    curr = curr.next
-                if node.right:
-                    curr.next = node.right
-                    curr = curr.next
-                node = node.next
-            node = dummy.next
+        if not root:
+            return None
+        queue = deque([root])
+        while queue:
+            pre = None
+            for _ in range(len(queue)):
+                cur = queue.popleft()
+                if pre:
+                    pre.next = cur
+                if cur.left:
+                    queue.append(cur.left)
+                if cur.right:
+                    queue.append(cur.right)
+                pre = cur
         return root
