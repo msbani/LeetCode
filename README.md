@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/msbani/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/msbani/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/msbani/LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/msbani/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/msbani/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/msbani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/msbani/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/msbani/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/msbani/LeetCode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/msbani/LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/msbani/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/msbani/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/msbani/LeetCode/tree/master/0817-design-hashmap) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/msbani/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/msbani/LeetCode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/msbani/LeetCode/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/msbani/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/msbani/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/msbani/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/msbani/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/msbani/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/msbani/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/msbani/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/msbani/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/msbani/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/msbani/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -841,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/msbani/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/msbani/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/msbani/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/msbani/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/msbani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/msbani/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/msbani/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
