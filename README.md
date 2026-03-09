@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/msbani/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/msbani/LeetCode/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/msbani/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0661-image-smoother](https://github.com/msbani/LeetCode/tree/master/0661-image-smoother) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/msbani/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/msbani/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/msbani/LeetCode/tree/master/0735-asteroid-collision) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/msbani/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/msbani/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/msbani/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/msbani/LeetCode/tree/master/0661-image-smoother) |
 | [0772-construct-quad-tree](https://github.com/msbani/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/msbani/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/msbani/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
