@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/msbani/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/msbani/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/msbani/LeetCode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/msbani/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msbani/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/msbani/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/msbani/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0705-design-hashset](https://github.com/msbani/LeetCode/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/msbani/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/msbani/LeetCode/tree/master/0817-design-hashmap) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/msbani/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
