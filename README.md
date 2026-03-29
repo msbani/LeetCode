@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/msbani/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0806-number-of-lines-to-write-string](https://github.com/msbani/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0812-largest-triangle-area](https://github.com/msbani/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0817-design-hashmap](https://github.com/msbani/LeetCode/tree/master/0817-design-hashmap) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [0875-koko-eating-bananas](https://github.com/msbani/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/msbani/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/msbani/LeetCode/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/msbani/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/msbani/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msbani/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/msbani/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -1055,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/msbani/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0812-largest-triangle-area](https://github.com/msbani/LeetCode/tree/master/0812-largest-triangle-area) |
 ## Database
 |  |
 | ------- |
