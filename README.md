@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/msbani/LeetCode/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/msbani/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0819-most-common-word](https://github.com/msbani/LeetCode/tree/master/0819-most-common-word) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msbani/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/msbani/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0812-largest-triangle-area](https://github.com/msbani/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0817-design-hashmap](https://github.com/msbani/LeetCode/tree/master/0817-design-hashmap) |
+| [0819-most-common-word](https://github.com/msbani/LeetCode/tree/master/0819-most-common-word) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [0875-koko-eating-bananas](https://github.com/msbani/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/msbani/LeetCode/tree/master/0909-snakes-and-ladders) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/msbani/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/msbani/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/msbani/LeetCode/tree/master/0817-design-hashmap) |
+| [0819-most-common-word](https://github.com/msbani/LeetCode/tree/master/0819-most-common-word) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/msbani/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/msbani/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-balloons](https://github.com/msbani/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/msbani/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/msbani/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/msbani/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/msbani/LeetCode/tree/master/0819-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/msbani/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/msbani/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/msbani/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
