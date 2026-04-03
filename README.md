@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/msbani/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/msbani/LeetCode/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/msbani/LeetCode/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/msbani/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0873-guess-the-word](https://github.com/msbani/LeetCode/tree/master/0873-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/msbani/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/msbani/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/msbani/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/msbani/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/msbani/LeetCode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/msbani/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/msbani/LeetCode/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/msbani/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/msbani/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/msbani/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/msbani/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/msbani/LeetCode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/msbani/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/msbani/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/msbani/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/msbani/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/msbani/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/msbani/LeetCode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/msbani/LeetCode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/msbani/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2352-equal-row-and-column-pairs](https://github.com/msbani/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/msbani/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/msbani/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
